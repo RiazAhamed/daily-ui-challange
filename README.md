@@ -25,7 +25,7 @@ From this tiny app you can easily search open source projects which are availabl
 
 ![GitChamp home page][gitchamp-home]
 
-An it will shows list of repos like this
+And it will shows list of repos like this,
 
 ![GitChamp contributions list][gitchamp-contributions]
 
